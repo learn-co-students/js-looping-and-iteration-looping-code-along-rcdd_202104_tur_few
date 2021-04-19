@@ -10,22 +10,6 @@ function writeCards(stringNames , stringPa){
 }
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
 
-// function countDown(numberPa){
-//     while(i < numberPa){
-//         console.log(numberPa);
-//         let sayiFalan = numberPa - 1
-//         if(sayiFalan = 0){
-//             break;
-//         }
-//         i++;
-//         return sayiFalan 
-//     }
-
-// }
-
-// countDown(10);
-
-
 
 function countDown(numberPa){
     let j = -1
@@ -38,5 +22,3 @@ function countDown(numberPa){
     }
 }
 countDown(10);
-
-
